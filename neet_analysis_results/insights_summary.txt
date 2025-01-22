@@ -1,0 +1,63 @@
+=== NEET Preparation Analysis ===
+
+Rank Prediction:
+Expected Rank Range: 10000-20000
+Estimated Percentile: 73.2
+
+Question Type Performance:
+  Assertion Reason: 72.0%
+  Match The Following: 68.0%
+  Diagram Based: 75.0%
+  Previous Year: 70.0%
+
+Chapter-wise Performance:
+
+Physics:
+  Mechanics: 80.0% (Weightage: 30.0%)
+  Thermodynamics: 70.0% (Weightage: 15.0%)
+  Electromagnetism: 75.0% (Weightage: 20.0%)
+  Optics: 72.0% (Weightage: 15.0%)
+  Modern Physics: 68.0% (Weightage: 10.0%)
+  Waves: 78.0% (Weightage: 10.0%)
+
+Chemistry:
+  Physical Chemistry: 85.0% (Weightage: 35.0%)
+  Organic Chemistry: 80.0% (Weightage: 35.0%)
+  Inorganic Chemistry: 79.0% (Weightage: 30.0%)
+
+Biology:
+  Human Physiology: 71.0% (Weightage: 25.0%)
+  Genetics: 65.0% (Weightage: 20.0%)
+  Cell Biology: 70.0% (Weightage: 20.0%)
+  Plant Physiology: 68.0% (Weightage: 15.0%)
+  Evolution: 64.0% (Weightage: 10.0%)
+  Ecology: 72.0% (Weightage: 10.0%)
+
+Overall Performance:
+Current Score: 75.0%
+Target Score: 85.0%
+
+Subject-wise Performance:
+
+Physics:
+  Score: 75.0%
+  Accuracy: 73.0%
+  Time per Question: 55.0 seconds
+
+Chemistry:
+  Score: 82.0%
+  Accuracy: 73.0%
+  Time per Question: 48.0 seconds
+
+Biology:
+  Score: 68.0%
+  Accuracy: 73.0%
+  Time per Question: 42.0 seconds
+
+Critical Areas for Improvement:
+
+Personalized Study Strategy:
+
+Time Management Recommendations:
+
+Recommended Next Steps:

@@ -1,0 +1,13 @@
+Metadata-Version: 2.2
+Name: quiz_analyzer
+Version: 0.1.0
+Summary: A quiz performance analysis and recommendation system
+Author: Your Name
+Requires-Python: >=3.7
+Requires-Dist: dataclasses>=0.6
+Requires-Dist: typing>=3.7.4
+Requires-Dist: python-dateutil>=2.8.2
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

@@ -1,0 +1,22 @@
+=== Quiz Analysis Insights Summary ===
+
+Topic Performance:
+  algebra: 100.00%
+  geometry: 0.00%
+
+Weak Areas:
+  • geometry
+
+Key Recommendations:
+
+Priority Topics:
+  • Focus on strengthening your understanding of geometry
+
+Difficulty Adjustment:
+  • Practice more hard level questions to improve confidence
+
+Strength Highlights:
+  • algebra: Expert - Keep pushing your boundaries!
+
+Learning Style Tips:
+  • Comfortable with basics, challenges with complex problems
