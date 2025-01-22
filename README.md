@@ -84,11 +84,6 @@ Learning Style Tips:
   • Comfortable with basics, challenges with complex problems
 ```
 
-### Programmatic Usage
-
-```python
-from quiz_analyzer.main import analyze_performance
-```
 
 ## Video Demo
 
